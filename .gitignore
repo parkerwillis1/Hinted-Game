@@ -1,6 +1,23 @@
+# Virtual environment
 venv/
+
+# Python cache files
 __pycache__/
-db.sqlite3
-node_modules/
 *.pyc
+
+# Database
+db.sqlite3
+
+# Node modules
+node_modules/
+
+# GloVe data files
+glove_data/
+
+# Other large files or specific file patterns
+*.zip
+*.tar.gz
+*.csv
+*.dat
+# ... add any other large file patterns you might have
 
